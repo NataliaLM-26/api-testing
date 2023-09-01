@@ -1,9 +1,10 @@
 {
-  "name"  : "Natalia López Miranda",
+  "name" : "Natalia López Miranda",
+  "titulo" : "ISOF",
+  "objetivo" : "Frontend Developer",
+  "foto" : "https://...com",
   "email" : "t.natalialm@gmail.com",
-  "cel"   : "(271)1355028",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
-  }
+  "celular" : "2711355028",
+  "ubicacion" : "Fortín, Veracruz",
+  "redsocial" : "NatLM",
 }
