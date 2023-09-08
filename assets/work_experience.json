@@ -1,0 +1,22 @@
+[
+     {
+       "puesto" : "Frontend developer",
+       "empresa" : "Amazon",
+       "fecha_ini" : "08/2022",
+       "fecha_fin" : "Present",
+       "ciudad" : "San Francisco",
+       "pais" : "USA",
+       "logros" : [
+           {
+           "logro" : "Web site x"
+           },
+           {
+           "logro" : "Shopping cat y"
+           },
+           {
+           "logro" : "Frontend integration with graphql"
+           }
+         ]
+     }
+]
+  
