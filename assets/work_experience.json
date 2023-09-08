@@ -1,20 +1,23 @@
 [
      {
        "puesto" : "Frontend developer",
-       "empresa" : "Amazon",
-       "fecha_ini" : "08/2022",
-       "fecha_fin" : "Present",
-       "ciudad" : "San Francisco",
-       "pais" : "USA",
+       "empresa" : "TecnolochicasPRO",
+       "fecha_ini" : "02/2022",
+       "fecha_fin" : "05/2022",
+       "ciudad" : "CDMX",
+       "pais" : "México",
        "logros" : [
            {
-           "logro" : "Web site x"
+           "logro" : "Web site cats"
            },
            {
-           "logro" : "Shopping cat y"
+           "logro" : "Portafolio personal"
            },
            {
-           "logro" : "Frontend integration with graphql"
+           "logro" : "Clonación de Google"
+           },
+           {
+            "logro" : "Aprendizajes en JS"
            }
          ]
      }
