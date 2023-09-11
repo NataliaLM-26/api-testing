@@ -20,6 +20,22 @@
             "logro" : "Aprendizajes en JS"
            }
          ]
-     }
+     },
+     {
+      "puesto" : "Backend developer",
+      "empresa" : "TecnolochicasPRO",
+      "fecha_ini" : "02/2022",
+      "fecha_fin" : "05/2022",
+      "ciudad" : "CDMX",
+      "pais" : "México",
+      "logros" : [
+          {
+          "logro" : "Construcción del código en el back"
+          },
+          {
+          "logro" : "Implementación de una API"
+          }
+        ]
+    }
 ]
   
