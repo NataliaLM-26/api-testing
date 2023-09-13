@@ -1,25 +1,25 @@
 {
     "skills" : [
-      {
-      "skill" : "Responsability"
-      },
-      {
-      "skill" : "Creatibity"
-      },
-      {
-      "skill" : "Communication"
-      },
-      {
-      "skill" : "Teamwork"
-      },
-      {
-      "skill" : "Collaborative"
-      },
-      {
-      "skill" : "Adaptability"
-      },
-      {
-      "skill" : "Commitment"  
-      }
+        {
+          "skill" : "Responsability"
+        },
+        {
+          "skill" : "Creatibity"
+        },
+        {
+          "skill" : "Communication"
+        },
+        {
+          "skill" : "Teamwork"
+        },
+        {
+          "skill" : "Collaborative"
+        },
+        {
+          "skill" : "Adaptability"
+        },
+        {
+          "skill" : "Commitment"  
+        }
     ]
 }  
