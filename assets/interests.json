@@ -1,13 +1,22 @@
 {
     "interests" : [
         {
-        "interest" : "interest 1"
+        "interest" : "Reading"
         },
         {
-        "interest" : "interest 2"
+        "interest" : "Drawing"
         },
         {
-        "interest" : ""
+        "interest" : "Chemestry"
+        },
+        {
+        "interest" : "Crafts"
+        },
+        {
+        "interest" : "Video Games"
+        },
+        {
+        "interest" : "Photography"
         }
     ]
 }
