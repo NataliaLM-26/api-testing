@@ -24,6 +24,10 @@ app.get('/skills', (req, res) => {
 	res.sendfile("assets/skills.json");
   });
 
+app.get('/certificates', (req, res) => {
+	res.sendfile("assets/certificates.json");
+});
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
