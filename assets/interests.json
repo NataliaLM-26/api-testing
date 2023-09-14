@@ -1,0 +1,13 @@
+{
+    "interests" : [
+        {
+        "interest" : "interest 1"
+        },
+        {
+        "interest" : "interest 2"
+        },
+        {
+        "interest" : ""
+        }
+    ]
+}
