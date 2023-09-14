@@ -28,6 +28,10 @@ app.get('/certificates', (req, res) => {
 	res.sendfile("assets/certificates.json");
 });
 
+app.get('/interests', (req, res) => {
+	res.sendfile("assets/interests.json");
+});
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
