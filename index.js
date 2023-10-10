@@ -11,11 +11,6 @@ app.get('/', (req, res, next) => {
 	res.send('node express api <br> by NataliaLM');
 });
 
-
-app.get('/header', (req, res, next) => {
-	res.sendfile("assets/header.json");
-});
-
 app.get('/work_experience', (req, res) => {
 	res.sendfile("assets/work_experience.json");
   });
@@ -23,14 +18,6 @@ app.get('/work_experience', (req, res) => {
 app.get('/skills', (req, res) => {
 	res.sendfile("assets/skills.json");
   });
-
-app.get('/certificates', (req, res) => {
-	res.sendfile("assets/certificates.json");
-});
-
-app.get('/interests', (req, res) => {
-	res.sendfile("assets/interests.json");
-});
 
 app.listen(port,  () => 
 	console.log('listening on port ' + port
